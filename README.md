@@ -12,7 +12,7 @@ opção '2' - Web Site Attack Vectors
 opção '3' - Credential Harvester Attack Method
 opção '2' - Site Cloner
 Vai sugerir o IP da sua maquina 'enter'
-Colocar o url do clone 'http://coloque o que vc quer testar'
+Colocar o url do clone 'http'://coloque o que vc quer testar'
 Copie o IP que foi usado anteriormente e colocar em um navegador
 Vai aparecer a pagina de login
 Colocando os dados de acesso vai gerar dados no Kali automaticamente
